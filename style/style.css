@@ -93,3 +93,33 @@ h1{
 .app h1{
     font-family: 'Lobster', cursive;
 }
+
+.new {
+    background-color: black;
+    color: white;
+}
+
+.btn2{
+    height:45px;
+    width: 100%;
+    background:white;
+    margin-left: -10px;
+    border:2px solid white;
+    font-weight: 700;
+}
+.new inputs{
+    height:45px;
+    width:55%;
+    outline:none;
+    border:2px solid white;
+    background:black;
+    color:white;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.new::placeholder{
+    color: white;
+}
+
+// 39:03
